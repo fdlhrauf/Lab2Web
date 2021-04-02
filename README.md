@@ -19,8 +19,11 @@ Berikan penjelasan dan contohnya! ( < p id = "paragraf - 1" class = "text - para
 # Langkah-langkah Praktikum
 # 1. Membuat dokumen HTML
 Buatlah dokumen HTML seperti berikut :
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/1.JPG)
+
 Selanjutnya buka pada browser untuk melihat hasilnya
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/1,1.JPG)
 
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/2.JPG)
@@ -29,17 +32,45 @@ Selanjutnya buka pada browser untuk melihat hasilnya
 
 # 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut :
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/3.JPG)
+
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/ubah%203%2C3.jpg)
+
 # 3. Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag < p > seperti berikut.
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/4.JPG)
+
 Simpan kembali dan refresh
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/4,4.JPG)
-# Membuat CSS Eksternal
+
+# 4. Membuat CSS Eksternal
 Buatlah file dengan nama style_eksternal.css
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/filebaru.JPG)
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/5.JPG)
+
 Kemudian Tambhkan tag < link > untuk merujuk file css yg sudah di buat pada bagian < head >
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/6.JPG)
+
+Selanjutnya refresh kembali browser dan lihat perubahannya
+
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/6,6.JPG)
+
+# 5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut :
+
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/7.JPG)
+
+Kemudian simpan kembali dan refresh browser untuk melihat perubahnnya.
+
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/7,7.JPG)
+
+# Nama : Siti Fadillah Rauf
+# Kelas : TI.19.A1
+# NIM : 311910206
