@@ -25,7 +25,7 @@ Selanjutnya buka pada browser untuk melihat hasilnya
 
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/2.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/ubah 2,2.JPG)
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/ubah%202%2C2.jpg)
 
 # 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut :
