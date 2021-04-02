@@ -22,10 +22,17 @@ Buatlah dokumen HTML seperti berikut :
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/1.JPG)
 Selanjutnya buka pada browser untuk melihat hasilnya
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/1,1.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/2.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/ubah 2,2.JPG)
+
 # 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut :
-![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/2.JPG)
+
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
-![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/2,2.JPG)
+
 # 3. Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag < p > seperti berikut.
+
+![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/3.JPG)
