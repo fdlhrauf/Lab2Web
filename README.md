@@ -52,6 +52,7 @@ Simpan kembali dan refresh
 Buatlah file dengan nama style_eksternal.css
 
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/filebaru.JPG)
+
 ![imag](https://github.com/fdlhrauf/Lab2Web/blob/main/5.JPG)
 
 Kemudian Tambhkan tag < link > untuk merujuk file css yg sudah di buat pada bagian < head >
